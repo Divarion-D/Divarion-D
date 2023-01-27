@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Divarion-D&color=blue)
 
-
 ## I'm a BackEnd Developer
 - 💪 I like to write code
 - 🥅 I am Constantly learning something new and improving my skills
@@ -29,7 +28,7 @@
 
 <details>
   <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divarion-D&langs_count=8&layout=compact&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divarion-D&amp;langs_count=8&amp;layout=compact&amp;count_private=true" alt="Divarion-D">
    <br />
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Divarion-D&show_icons=true&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Divarion-D&amp;show_icons=true&amp;count_private=true" alt="Divarion-D">
 </details>
