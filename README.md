@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divarion-d&label=Profile%20views&color=0e75b6&style=flat" alt="divarion-d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divarion-d" alt="divarion-d" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divarion-d&row=2&column=5" alt="divarion-d" /></a> </p>
 
 - 🔭 I’m currently working on [XtreamUI](https://github.com/Vateron-Media)
 
