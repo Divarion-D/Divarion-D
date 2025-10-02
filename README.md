@@ -7,6 +7,7 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Divarion-D&label=PROFILE+VIEWS&color=9c88ff&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Divarion-D?label=FOLLOW&logo=github&style=social)
+![](https://hit.yhype.me/github/profile?account_id=42798043)
 
 </div>
 
