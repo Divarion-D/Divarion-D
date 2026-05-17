@@ -1,65 +1,109 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
- 
-<h1 align="center">✨ Hello World! I'm Danil ✨</h1>
-<h3 align="center" style="color: #e74c3c">BackEnd Alchemist & DevOps Wizard</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Danil%20%7C%20Divarion-D&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=BackEnd%20Alchemist%20%7C%20DevOps%20Wizard&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Divarion-D&label=PROFILE+VIEWS&color=9c88ff&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/Divarion-D?label=FOLLOW&logo=github&style=social)
-![](https://hit.yhype.me/github/profile?account_id=42798043)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9C88FF&center=true&vCenter=true&width=600&lines=Python+%7C+PHP+%7C+C%23+%7C+Node.js;Django+%7C+Qt+%7C+CodeIgniter;MySQL+%7C+PostgreSQL+%7C+MariaDB;Unreal+Engine+%7C+Arduino;Building+next-gen+streaming+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Divarion-D&label=PROFILE+VIEWS&color=9c88ff&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Divarion-D?label=FOLLOWERS&logo=github&style=for-the-badge&color=9c88ff)](https://github.com/Divarion-D?tab=followers)
 
 </div>
 
 ---
 
-### 🛠️ **My Tech Stack**
-
-#### **Languages & Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-#### **Frameworks & Libraries**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Qt](https://img.shields.io/badge/-Qt-2e852e?style=flat-square&logo=qt)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-a62008?style=flat-square&logo=codeigniter)
-![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll)
-
-#### **Databases**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00337a?style=flat-square&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb)
-
-#### **Game & Embedded Dev**
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
-
----
-
-### 🔥 **Coding Activity**
+### 🛠️ Tech Stack
 
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divarion-D&layout=compact&theme=merko&hide_border=true&exclude_repo=xtream-ui)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Divarion-D&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,php,cs,nodejs,cpp&theme=dark)](https://skillicons.dev)
+
+#### Frameworks & Tools
+[![My Skills](https://skillicons.dev/icons?i=django,qt,arduino,docker&theme=dark)](https://skillicons.dev)
+
+#### Databases & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nginx,linux,git&theme=dark)](https://skillicons.dev)
+
+#### Game & Embedded
+[![My Skills](https://skillicons.dev/icons?i=unrealengine,arduino&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🌐 **Connect With Me**
+### 📊 GitHub Stats
+
 <div align="center">
-  
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Divarion_D)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Divarion-D)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divarion-D&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divarion-D&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divarion-D&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Divarion-D&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🎯 **Current Focus**
-**Developing next-gen streaming solutions at [XtreamUI](https://github.com/Vateron-Media)**
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Divarion-D&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divarion-D&bg_color=1a1b27&color=9c88ff&line=628fdb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divarion-D/Divarion-D/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divarion-D/Divarion-D/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Divarion-D/Divarion-D/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Divarion_D)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Divarion-D)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divarion-D)
+
+</div>
+
+---
+
+### 🎯 Current Focus
+
+<div align="center">
+
+**Developing next-gen streaming solutions at [XC_VM](https://github.com/Vateron-Media)**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
