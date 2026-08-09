@@ -1,95 +1,87 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Danil%20%7C%20Divarion-D&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=BackEnd%20Alchemist%20%7C%20DevOps%20Wizard&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="assets/nyxar-banner.svg" width="100%" alt="Divarion-D — digital wanderer"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9C88FF&center=true&vCenter=true&width=600&lines=Python+%7C+PHP+%7C+C%23+%7C+Node.js;Django+%7C+Qt+%7C+CodeIgniter;MySQL+%7C+PostgreSQL+%7C+MariaDB;Unreal+Engine+%7C+Arduino;Building+next-gen+streaming+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Divarion-D&label=PROFILE+VIEWS&color=9c88ff&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/Divarion-D?label=FOLLOWERS&logo=github&style=for-the-badge&color=9c88ff)](https://github.com/Divarion-D?tab=followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=900&color=B14EFF&background=00000000&center=true&vCenter=true&width=760&lines=NYXAR+//+not+a+hero,+not+a+hacker,+not+a+machine;cant+ignore+a+broken+thing;understand+%E2%86%92+break+%E2%86%92+change+%E2%86%92+build+%E2%86%92+verify;just+wanted+to+understand+why+it+works)](https://git.io/typing-svg)
 
 </div>
 
----
+<img src="assets/fiber-divider.svg" width="100%" alt=""/>
 
-### 🛠️ Tech Stack
+### <img src="assets/nyxar-mark.svg" height="15" align="center"/> `// NYXAR`
+
+**Nyxar** — a black wolf on the border between the physical and the digital.
+Not a hero, not a hacker, not a machine — just a creature who **can't ignore a broken thing**.
+He has no favourite technology, only a favourite moment: *the one where it finally makes sense.*
+
+```text
+NYXAR // SYSTEM
+──────────────────────────
+loop    : understand → break → change → build → verify
+carry   : backpack · headphones · notebook · toolkit · cold coffee
+signal  : фиолетовая нить в хвосте ярче, когда VOID
+state   : VOID — предельная концентрация, а не тёмная сторона
+> «я просто хотел понять, почему оно работает»  ...а потом уже ночь
+```
+
+<img src="assets/fiber-divider.svg" width="100%" alt=""/>
+
+### <img src="assets/nyxar-mark.svg" height="15" align="center"/> `// toolkit`
 
 <div align="center">
 
-#### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,php,cs,nodejs,cpp&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=B14EFF)
+![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=flat-square&logo=php&logoColor=B14EFF)
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=csharp&logoColor=B14EFF)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=B14EFF)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=B14EFF)
 
-#### Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=django,qt,arduino,docker&theme=dark)](https://skillicons.dev)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=B14EFF)
+![Qt](https://img.shields.io/badge/Qt-0a0a0a?style=flat-square&logo=qt&logoColor=B14EFF)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=B14EFF)
+![Nginx](https://img.shields.io/badge/Nginx-0a0a0a?style=flat-square&logo=nginx&logoColor=B14EFF)
+![Arduino](https://img.shields.io/badge/Arduino-0a0a0a?style=flat-square&logo=arduino&logoColor=B14EFF)
 
-#### Databases & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nginx,linux,git&theme=dark)](https://skillicons.dev)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=B14EFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=B14EFF)
+![MariaDB](https://img.shields.io/badge/MariaDB-0a0a0a?style=flat-square&logo=mariadb&logoColor=B14EFF)
 
-#### Game & Embedded
-[![My Skills](https://skillicons.dev/icons?i=unrealengine,arduino&theme=dark)](https://skillicons.dev)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=B14EFF)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=B14EFF)
+![Unreal Engine](https://img.shields.io/badge/Unreal-0a0a0a?style=flat-square&logo=unrealengine&logoColor=B14EFF)
 
 </div>
 
----
+<img src="assets/fiber-divider.svg" width="100%" alt=""/>
 
-### 📊 GitHub Stats
+### <img src="assets/nyxar-mark.svg" height="15" align="center"/> `// traces`
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divarion-D&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divarion-D&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divarion-D&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Divarion-D&bg_color=0a0a0a&color=B14EFF&line=B14EFF&point=ffffff&area=true&area_color=B14EFF&title_color=B14EFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<img src="assets/fiber-divider.svg" width="100%" alt=""/>
+
+### <img src="assets/nyxar-mark.svg" height="15" align="center"/> `// uplink`
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Divarion-D&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Telegram](https://img.shields.io/badge/Telegram-0a0a0a?style=for-the-badge&logo=telegram&logoColor=B14EFF)](https://t.me/Divarion_D)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=B14EFF)](https://instagram.com/Divarion-D)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=B14EFF)](https://github.com/Divarion-D)
 
 </div>
 
----
+<img src="assets/fiber-divider.svg" width="100%" alt=""/>
 
-### 🏆 GitHub Trophies
+### <img src="assets/nyxar-mark.svg" height="15" align="center"/> `// current focus`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Divarion-D&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+**▸ Developing next-gen streaming solutions at [XC_VM](https://github.com/Vateron-Media)**
 
 </div>
 
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divarion-D&bg_color=1a1b27&color=9c88ff&line=628fdb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Divarion_D)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Divarion-D)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divarion-D)
-
-</div>
-
----
-
-### 🎯 Current Focus
-
-<div align="center">
-
-**Developing next-gen streaming solutions at [XC_VM](https://github.com/Vateron-Media)**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
+<img src="assets/nyxar-footer.svg" width="100%" alt="NYXAR // VOID"/>

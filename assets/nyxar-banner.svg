@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" fill="none" role="img" aria-label="Divarion-D">
+  <defs>
+    <linearGradient id="fiber" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B14EFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#B14EFF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#B14EFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="0.55" stop-color="#0a0a0a" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.6"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="240" fill="#0a0a0a"/>
+  <rect width="1200" height="240" fill="url(#vignette)"/>
+
+  <!-- Nyxar mark: broken ring + diagonal -->
+  <g transform="translate(120 118)" filter="url(#glow)">
+    <g>
+      <circle r="40" fill="none" stroke="#B14EFF" stroke-width="4" stroke-linecap="round" stroke-dasharray="188 63"/>
+      <animateTransform attributeName="transform" type="rotate" from="30" to="390" dur="18s" repeatCount="indefinite"/>
+    </g>
+    <line x1="-50" y1="50" x2="50" y2="-50" stroke="#d9b3ff" stroke-width="4" stroke-linecap="round"/>
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="4s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="212" y="110" font-family="ui-monospace, 'Fira Code', 'Cascadia Code', monospace" font-size="52" font-weight="700" fill="#ece9f5">Divarion-D</text>
+  <text x="214" y="148" font-family="ui-monospace, 'Fira Code', 'Cascadia Code', monospace" font-size="17" fill="#8a7fb0">digital wanderer &#183; engineer by nature &#183; explorer by character</text>
+
+  <!-- fiber-optic line (the tail motif) -->
+  <line x1="212" y1="184" x2="1060" y2="184" stroke="url(#fiber)" stroke-width="2"/>
+  <circle cy="184" r="4" fill="#e9d5ff" filter="url(#glow)">
+    <animate attributeName="cx" values="240;1030;240" dur="6.5s" keyTimes="0;0.5;1" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="6.5s" keyTimes="0;0.12;0.88;1" repeatCount="indefinite"/>
+  </circle>
+</svg>

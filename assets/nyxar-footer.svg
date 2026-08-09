@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" fill="none" role="img" aria-label="NYXAR // VOID">
+  <defs>
+    <linearGradient id="ffiber" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B14EFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#B14EFF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#B14EFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="fglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="130" fill="#0a0a0a"/>
+
+  <line x1="200" y1="52" x2="1000" y2="52" stroke="url(#ffiber)" stroke-width="1.6"/>
+  <circle cy="52" r="3.4" fill="#e9d5ff" filter="url(#fglow)">
+    <animate attributeName="cx" values="230;970;230" dur="6.5s" keyTimes="0;0.5;1" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="6.5s" keyTimes="0;0.12;0.88;1" repeatCount="indefinite"/>
+  </circle>
+
+  <g transform="translate(600 88)" text-anchor="middle">
+    <text font-family="ui-monospace, 'Fira Code', 'Cascadia Code', monospace" font-size="26" font-weight="700" letter-spacing="6" fill="#B14EFF" filter="url(#fglow)">NYXAR // VOID</text>
+  </g>
+  <text x="600" y="112" text-anchor="middle" font-family="ui-monospace, 'Fira Code', monospace" font-size="12" fill="#5c5470">not a hero &#183; not a hacker &#183; not a machine</text>
+</svg>
